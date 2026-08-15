@@ -1,0 +1,23 @@
+---
+title: "CORINE data validation and first maps"
+format: html
+---
+
+# Objective
+
+Validate the CORINE datasets, their CRS/resolution/alignment, and produce first country-level maps before calculating fragmentation metrics.
+
+## Data
+
+CORINE Land Cover 1990, 2000, 2006, 2012 and 2018.
+
+Expected native resolution: 100 m.
+
+Expected CRS: EPSG:3035.
+
+## First outputs
+
+1. Raster metadata table.
+2. Europe/country map for each year.
+3. 10 x 10 km analysis grid.
+4. Overlay map showing the grid and country boundaries.
