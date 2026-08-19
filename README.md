@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31186992/README.md)
 # Temporal evolution of forest habitat amount and fragmentation in Europe (1990–2018)
 
 ## Overview

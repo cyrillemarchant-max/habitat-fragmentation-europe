@@ -11,6 +11,7 @@
 # ========================================================
 .quarto/
 *_files/
+*_data/
 
 # ========================================================
 # Computational cache
@@ -18,15 +19,27 @@
 cache/
 
 # ========================================================
-# Large raw CORINE datasets
+# Copernicus CLMS authentication
+# NEVER COMMIT PRIVATE CREDENTIALS
 # ========================================================
-data_input/corine/*.tif
-data_input/corine/*.tiff
-data_input/corine/*.zip
-data_input/corine/*.7z
+clms_service_key.json
 
 # ========================================================
-# Operating system files
+# Raw CORINE datasets
+# Keep directory structure but ignore downloaded data
+# ========================================================
+data_input/corine/**
+!data_input/corine/.gitkeep
+
+# ========================================================
+# Downloaded boundary data
+# Reconstructed automatically with giscoR
+# ========================================================
+data_input/boundaries/**
+!data_input/boundaries/.gitkeep
+
+# ========================================================
+# Operating-system files
 # ========================================================
 .DS_Store
 Thumbs.db

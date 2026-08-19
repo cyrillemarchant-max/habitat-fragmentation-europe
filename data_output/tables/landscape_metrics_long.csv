@@ -1,0 +1,401 @@
+sample_id,grid_id,study_area,year,metric,value,name,unit,fragmentation_interpretation
+ESP_S1,ESP_0412,Spain,1990,pland,17.84714015120854,Percentage of landscape,%,Forest habitat amount
+ESP_S1,ESP_0412,Spain,1990,np,52,Number of patches,count,Absolute patch subdivision
+ESP_S1,ESP_0412,Spain,1990,pd,0.08418462335475643,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S1,ESP_0412,Spain,1990,ed,11.772895789142726,Edge density,m / ha,Density of forest-matrix edges
+ESP_S1,ESP_0412,Spain,1990,lpi,6.258802959413298,Largest patch index,%,Dominance of the largest forest patch
+ESP_S1,ESP_0412,Spain,1990,cohesion,96.6537214045115,Patch cohesion index,%,Structural connectedness
+ESP_S1,ESP_0412,Spain,1990,enn_mn,534.9989497094729,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S1,ESP_0412,Spain,1990,ai,83.95457459474311,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S1,ESP_0412,Spain,2000,pland,17.82285612524082,Percentage of landscape,%,Forest habitat amount
+ESP_S1,ESP_0412,Spain,2000,np,53,Number of patches,count,Absolute patch subdivision
+ESP_S1,ESP_0412,Spain,2000,pd,0.08580355841927098,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S1,ESP_0412,Spain,2000,ed,11.761563243691137,Edge density,m / ha,Density of forest-matrix edges
+ESP_S1,ESP_0412,Spain,2000,lpi,6.258802959413298,Largest patch index,%,Dominance of the largest forest patch
+ESP_S1,ESP_0412,Spain,2000,cohesion,96.63096824848128,Patch cohesion index,%,Structural connectedness
+ESP_S1,ESP_0412,Spain,2000,enn_mn,530.2412848559851,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S1,ESP_0412,Spain,2000,ai,83.96001467351431,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S1,ESP_0412,Spain,2006,pland,30.700106861824423,Percentage of landscape,%,Forest habitat amount
+ESP_S1,ESP_0412,Spain,2006,np,130,Number of patches,count,Absolute patch subdivision
+ESP_S1,ESP_0412,Spain,2006,pd,0.2104854117418457,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S1,ESP_0412,Spain,2006,ed,22.54136847899246,Edge density,m / ha,Density of forest-matrix edges
+ESP_S1,ESP_0412,Spain,2006,lpi,19.716006606003692,Largest patch index,%,Dominance of the largest forest patch
+ESP_S1,ESP_0412,Spain,2006,cohesion,98.86063493783209,Patch cohesion index,%,Structural connectedness
+ESP_S1,ESP_0412,Spain,2006,enn_mn,280.5453324900022,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S1,ESP_0412,Spain,2006,ai,81.97418052382723,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S1,ESP_0412,Spain,2012,pland,27.717690489297624,Percentage of landscape,%,Forest habitat amount
+ESP_S1,ESP_0412,Spain,2012,np,137,Number of patches,count,Absolute patch subdivision
+ESP_S1,ESP_0412,Spain,2012,pd,0.22181924160486816,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S1,ESP_0412,Spain,2012,ed,22.60937145816956,Edge density,m / ha,Density of forest-matrix edges
+ESP_S1,ESP_0412,Spain,2012,lpi,13.75441209805382,Largest patch index,%,Dominance of the largest forest patch
+ESP_S1,ESP_0412,Spain,2012,cohesion,98.25104146826514,Patch cohesion index,%,Structural connectedness
+ESP_S1,ESP_0412,Spain,2012,enn_mn,264.546486910918,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S1,ESP_0412,Spain,2012,ai,79.92406404520838,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S1,ESP_0412,Spain,2018,pland,27.40843884589229,Percentage of landscape,%,Forest habitat amount
+ESP_S1,ESP_0412,Spain,2018,np,140,Number of patches,count,Absolute patch subdivision
+ESP_S1,ESP_0412,Spain,2018,pd,0.22667659726044925,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S1,ESP_0412,Spain,2018,ed,22.50574787085045,Edge density,m / ha,Density of forest-matrix edges
+ESP_S1,ESP_0412,Spain,2018,lpi,13.700981185842426,Largest patch index,%,Dominance of the largest forest patch
+ESP_S1,ESP_0412,Spain,2018,cohesion,98.14126414308063,Patch cohesion index,%,Structural connectedness
+ESP_S1,ESP_0412,Spain,2018,enn_mn,264.4775188548894,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S1,ESP_0412,Spain,2018,ai,79.78865902664087,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S2,ESP_0508,Spain,1990,pland,55.0208,Percentage of landscape,%,Forest habitat amount
+ESP_S2,ESP_0508,Spain,1990,np,22,Number of patches,count,Absolute patch subdivision
+ESP_S2,ESP_0508,Spain,1990,pd,0.0352,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S2,ESP_0508,Spain,1990,ed,18.00319999999478,Edge density,m / ha,Density of forest-matrix edges
+ESP_S2,ESP_0508,Spain,1990,lpi,48.4208,Largest patch index,%,Dominance of the largest forest patch
+ESP_S2,ESP_0508,Spain,1990,cohesion,99.70505658419839,Patch cohesion index,%,Structural connectedness
+ESP_S2,ESP_0508,Spain,1990,enn_mn,452.0050642052634,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S2,ESP_0508,Spain,1990,ai,91.96257583509977,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S2,ESP_0508,Spain,2000,pland,54.9616,Percentage of landscape,%,Forest habitat amount
+ESP_S2,ESP_0508,Spain,2000,np,22,Number of patches,count,Absolute patch subdivision
+ESP_S2,ESP_0508,Spain,2000,pd,0.0352,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S2,ESP_0508,Spain,2000,ed,18.05439999999478,Edge density,m / ha,Density of forest-matrix edges
+ESP_S2,ESP_0508,Spain,2000,lpi,48.361599999999996,Largest patch index,%,Dominance of the largest forest patch
+ESP_S2,ESP_0508,Spain,2000,cohesion,99.70503591397222,Patch cohesion index,%,Structural connectedness
+ESP_S2,ESP_0508,Spain,2000,enn_mn,452.0050642052634,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S2,ESP_0508,Spain,2000,ai,91.93045616191773,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S2,ESP_0508,Spain,2006,pland,66.2608,Percentage of landscape,%,Forest habitat amount
+ESP_S2,ESP_0508,Spain,2006,np,79,Number of patches,count,Absolute patch subdivision
+ESP_S2,ESP_0508,Spain,2006,pd,0.12639999999999998,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S2,ESP_0508,Spain,2006,ed,21.468799999998136,Edge density,m / ha,Density of forest-matrix edges
+ESP_S2,ESP_0508,Spain,2006,lpi,64.632,Largest patch index,%,Dominance of the largest forest patch
+ESP_S2,ESP_0508,Spain,2006,cohesion,99.8474765833099,Patch cohesion index,%,Structural connectedness
+ESP_S2,ESP_0508,Spain,2006,enn_mn,218.6431546671289,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S2,ESP_0508,Spain,2006,ai,92.02965371642117,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S2,ESP_0508,Spain,2012,pland,65.984,Percentage of landscape,%,Forest habitat amount
+ESP_S2,ESP_0508,Spain,2012,np,75,Number of patches,count,Absolute patch subdivision
+ESP_S2,ESP_0508,Spain,2012,pd,0.12,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S2,ESP_0508,Spain,2012,ed,21.705599999998036,Edge density,m / ha,Density of forest-matrix edges
+ESP_S2,ESP_0508,Spain,2012,lpi,64.3888,Largest patch index,%,Dominance of the largest forest patch
+ESP_S2,ESP_0508,Spain,2012,cohesion,99.84955569269286,Patch cohesion index,%,Structural connectedness
+ESP_S2,ESP_0508,Spain,2012,enn_mn,218.5328867497485,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S2,ESP_0508,Spain,2012,ai,91.90476770679761,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S2,ESP_0508,Spain,2018,pland,65.696,Percentage of landscape,%,Forest habitat amount
+ESP_S2,ESP_0508,Spain,2018,np,75,Number of patches,count,Absolute patch subdivision
+ESP_S2,ESP_0508,Spain,2018,pd,0.12,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S2,ESP_0508,Spain,2018,ed,21.724799999998037,Edge density,m / ha,Density of forest-matrix edges
+ESP_S2,ESP_0508,Spain,2018,lpi,64.1008,Largest patch index,%,Dominance of the largest forest patch
+ESP_S2,ESP_0508,Spain,2018,cohesion,99.84836973537983,Patch cohesion index,%,Structural connectedness
+ESP_S2,ESP_0508,Spain,2018,enn_mn,218.5328867497485,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S2,ESP_0508,Spain,2018,ai,91.86063587634922,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S3,ESP_0571,Spain,1990,pland,19.561600000000002,Percentage of landscape,%,Forest habitat amount
+ESP_S3,ESP_0571,Spain,1990,np,77,Number of patches,count,Absolute patch subdivision
+ESP_S3,ESP_0571,Spain,1990,pd,0.1232,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S3,ESP_0571,Spain,1990,ed,11.38399999999166,Edge density,m / ha,Density of forest-matrix edges
+ESP_S3,ESP_0571,Spain,1990,lpi,4.9856,Largest patch index,%,Dominance of the largest forest patch
+ESP_S3,ESP_0571,Spain,1990,cohesion,95.68567344741989,Patch cohesion index,%,Structural connectedness
+ESP_S3,ESP_0571,Spain,1990,enn_mn,528.3488279363777,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S3,ESP_0571,Spain,1990,ai,85.46842756912918,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S3,ESP_0571,Spain,2000,pland,19.561600000000002,Percentage of landscape,%,Forest habitat amount
+ESP_S3,ESP_0571,Spain,2000,np,77,Number of patches,count,Absolute patch subdivision
+ESP_S3,ESP_0571,Spain,2000,pd,0.1232,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S3,ESP_0571,Spain,2000,ed,11.38399999999166,Edge density,m / ha,Density of forest-matrix edges
+ESP_S3,ESP_0571,Spain,2000,lpi,4.9856,Largest patch index,%,Dominance of the largest forest patch
+ESP_S3,ESP_0571,Spain,2000,cohesion,95.68567344741989,Patch cohesion index,%,Structural connectedness
+ESP_S3,ESP_0571,Spain,2000,enn_mn,528.3488279363777,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S3,ESP_0571,Spain,2000,ai,85.46842756912918,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S3,ESP_0571,Spain,2006,pland,32.452799999999996,Percentage of landscape,%,Forest habitat amount
+ESP_S3,ESP_0571,Spain,2006,np,162,Number of patches,count,Absolute patch subdivision
+ESP_S3,ESP_0571,Spain,2006,pd,0.2592,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S3,ESP_0571,Spain,2006,ed,21.659199999991515,Edge density,m / ha,Density of forest-matrix edges
+ESP_S3,ESP_0571,Spain,2006,lpi,7.158399999999999,Largest patch index,%,Dominance of the largest forest patch
+ESP_S3,ESP_0571,Spain,2006,cohesion,97.22852481259358,Patch cohesion index,%,Structural connectedness
+ESP_S3,ESP_0571,Spain,2006,enn_mn,246.69114131925775,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S3,ESP_0571,Spain,2006,ai,83.19306869243563,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S3,ESP_0571,Spain,2012,pland,30.0304,Percentage of landscape,%,Forest habitat amount
+ESP_S3,ESP_0571,Spain,2012,np,159,Number of patches,count,Absolute patch subdivision
+ESP_S3,ESP_0571,Spain,2012,pd,0.25439999999999996,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S3,ESP_0571,Spain,2012,ed,20.375999999992057,Edge density,m / ha,Density of forest-matrix edges
+ESP_S3,ESP_0571,Spain,2012,lpi,7.127999999999999,Largest patch index,%,Dominance of the largest forest patch
+ESP_S3,ESP_0571,Spain,2012,cohesion,96.6496356625861,Patch cohesion index,%,Structural connectedness
+ESP_S3,ESP_0571,Spain,2012,enn_mn,252.5612846711955,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S3,ESP_0571,Spain,2012,ai,82.9218548733362,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S3,ESP_0571,Spain,2018,pland,29.9856,Percentage of landscape,%,Forest habitat amount
+ESP_S3,ESP_0571,Spain,2018,np,160,Number of patches,count,Absolute patch subdivision
+ESP_S3,ESP_0571,Spain,2018,pd,0.256,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S3,ESP_0571,Spain,2018,ed,20.391999999992034,Edge density,m / ha,Density of forest-matrix edges
+ESP_S3,ESP_0571,Spain,2018,lpi,7.127999999999999,Largest patch index,%,Dominance of the largest forest patch
+ESP_S3,ESP_0571,Spain,2018,cohesion,96.6263138446672,Patch cohesion index,%,Structural connectedness
+ESP_S3,ESP_0571,Spain,2018,enn_mn,252.23277664201024,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S3,ESP_0571,Spain,2018,ai,82.89883895936357,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S4,ESP_0574,Spain,1990,pland,56.745599999999996,Percentage of landscape,%,Forest habitat amount
+ESP_S4,ESP_0574,Spain,1990,np,31,Number of patches,count,Absolute patch subdivision
+ESP_S4,ESP_0574,Spain,1990,pd,0.049600000000000005,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S4,ESP_0574,Spain,1990,ed,20.69279999998562,Edge density,m / ha,Density of forest-matrix edges
+ESP_S4,ESP_0574,Spain,1990,lpi,53.681599999999996,Largest patch index,%,Dominance of the largest forest patch
+ESP_S4,ESP_0574,Spain,1990,cohesion,99.78761027511692,Patch cohesion index,%,Structural connectedness
+ESP_S4,ESP_0574,Spain,1990,enn_mn,299.79085489403917,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S4,ESP_0574,Spain,1990,ai,90.97583445538942,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S4,ESP_0574,Spain,2000,pland,56.61279999999999,Percentage of landscape,%,Forest habitat amount
+ESP_S4,ESP_0574,Spain,2000,np,34,Number of patches,count,Absolute patch subdivision
+ESP_S4,ESP_0574,Spain,2000,pd,0.0544,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S4,ESP_0574,Spain,2000,ed,20.835199999985534,Edge density,m / ha,Density of forest-matrix edges
+ESP_S4,ESP_0574,Spain,2000,lpi,53.371199999999995,Largest patch index,%,Dominance of the largest forest patch
+ESP_S4,ESP_0574,Spain,2000,cohesion,99.7826175487178,Patch cohesion index,%,Structural connectedness
+ESP_S4,ESP_0574,Spain,2000,enn_mn,290.98577946216653,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S4,ESP_0574,Spain,2000,ai,90.89204279077697,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S4,ESP_0574,Spain,2006,pland,72.7328,Percentage of landscape,%,Forest habitat amount
+ESP_S4,ESP_0574,Spain,2006,np,32,Number of patches,count,Absolute patch subdivision
+ESP_S4,ESP_0574,Spain,2006,pd,0.051199999999999996,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S4,ESP_0574,Spain,2006,ed,18.236799999990605,Edge density,m / ha,Density of forest-matrix edges
+ESP_S4,ESP_0574,Spain,2006,lpi,72.35679999999999,Largest patch index,%,Dominance of the largest forest patch
+ESP_S4,ESP_0574,Spain,2006,cohesion,99.91550211792438,Patch cohesion index,%,Structural connectedness
+ESP_S4,ESP_0574,Spain,2006,enn_mn,242.6761648607501,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S4,ESP_0574,Spain,2006,ai,93.76277779619622,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S4,ESP_0574,Spain,2012,pland,72.7328,Percentage of landscape,%,Forest habitat amount
+ESP_S4,ESP_0574,Spain,2012,np,32,Number of patches,count,Absolute patch subdivision
+ESP_S4,ESP_0574,Spain,2012,pd,0.051199999999999996,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S4,ESP_0574,Spain,2012,ed,18.239999999990626,Edge density,m / ha,Density of forest-matrix edges
+ESP_S4,ESP_0574,Spain,2012,lpi,72.35679999999999,Largest patch index,%,Dominance of the largest forest patch
+ESP_S4,ESP_0574,Spain,2012,cohesion,99.91550448758345,Patch cohesion index,%,Structural connectedness
+ESP_S4,ESP_0574,Spain,2012,enn_mn,242.6761648607501,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S4,ESP_0574,Spain,2012,ai,93.76167268949817,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S4,ESP_0574,Spain,2018,pland,72.6976,Percentage of landscape,%,Forest habitat amount
+ESP_S4,ESP_0574,Spain,2018,np,32,Number of patches,count,Absolute patch subdivision
+ESP_S4,ESP_0574,Spain,2018,pd,0.051199999999999996,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S4,ESP_0574,Spain,2018,ed,18.265599999990627,Edge density,m / ha,Density of forest-matrix edges
+ESP_S4,ESP_0574,Spain,2018,lpi,72.3216,Largest patch index,%,Dominance of the largest forest patch
+ESP_S4,ESP_0574,Spain,2018,cohesion,99.9154052078541,Patch cohesion index,%,Structural connectedness
+ESP_S4,ESP_0574,Spain,2018,enn_mn,242.6761648607501,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S4,ESP_0574,Spain,2018,ai,93.74979269169108,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S5,ESP_0602,Spain,1990,pland,32.2656,Percentage of landscape,%,Forest habitat amount
+ESP_S5,ESP_0602,Spain,1990,np,56,Number of patches,count,Absolute patch subdivision
+ESP_S5,ESP_0602,Spain,1990,pd,0.0896,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S5,ESP_0602,Spain,1990,ed,16.96479999998935,Edge density,m / ha,Density of forest-matrix edges
+ESP_S5,ESP_0602,Spain,1990,lpi,7.1488,Largest patch index,%,Dominance of the largest forest patch
+ESP_S5,ESP_0602,Spain,1990,cohesion,97.95002839887303,Patch cohesion index,%,Structural connectedness
+ESP_S5,ESP_0602,Spain,1990,enn_mn,355.81238529598676,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S5,ESP_0602,Spain,1990,ai,87.05271306215198,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S5,ESP_0602,Spain,2000,pland,32.230399999999996,Percentage of landscape,%,Forest habitat amount
+ESP_S5,ESP_0602,Spain,2000,np,56,Number of patches,count,Absolute patch subdivision
+ESP_S5,ESP_0602,Spain,2000,pd,0.0896,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S5,ESP_0602,Spain,2000,ed,16.929599999989176,Edge density,m / ha,Density of forest-matrix edges
+ESP_S5,ESP_0602,Spain,2000,lpi,7.1488,Largest patch index,%,Dominance of the largest forest patch
+ESP_S5,ESP_0602,Spain,2000,cohesion,97.95092621102216,Patch cohesion index,%,Structural connectedness
+ESP_S5,ESP_0602,Spain,2000,enn_mn,355.81238529598676,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S5,ESP_0602,Spain,2000,ai,87.06379362063794,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S5,ESP_0602,Spain,2006,pland,44.0096,Percentage of landscape,%,Forest habitat amount
+ESP_S5,ESP_0602,Spain,2006,np,87,Number of patches,count,Absolute patch subdivision
+ESP_S5,ESP_0602,Spain,2006,pd,0.1392,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S5,ESP_0602,Spain,2006,ed,21.892799999993027,Edge density,m / ha,Density of forest-matrix edges
+ESP_S5,ESP_0602,Spain,2006,lpi,21.787200000000002,Largest patch index,%,Dominance of the largest forest patch
+ESP_S5,ESP_0602,Spain,2006,cohesion,99.18646148607222,Patch cohesion index,%,Structural connectedness
+ESP_S5,ESP_0602,Spain,2006,enn_mn,247.32966137728783,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S5,ESP_0602,Spain,2006,ai,87.68471104608632,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S5,ESP_0602,Spain,2012,pland,43.6288,Percentage of landscape,%,Forest habitat amount
+ESP_S5,ESP_0602,Spain,2012,np,87,Number of patches,count,Absolute patch subdivision
+ESP_S5,ESP_0602,Spain,2012,pd,0.1392,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S5,ESP_0602,Spain,2012,ed,22.00799999999293,Edge density,m / ha,Density of forest-matrix edges
+ESP_S5,ESP_0602,Spain,2012,lpi,21.8368,Largest patch index,%,Dominance of the largest forest patch
+ESP_S5,ESP_0602,Spain,2012,cohesion,99.17971750357829,Patch cohesion index,%,Structural connectedness
+ESP_S5,ESP_0602,Spain,2012,enn_mn,247.05831887444435,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S5,ESP_0602,Spain,2012,ai,87.51960151277557,Aggregation index,%,Aggregation of adjacent forest cells
+ESP_S5,ESP_0602,Spain,2018,pland,43.4032,Percentage of landscape,%,Forest habitat amount
+ESP_S5,ESP_0602,Spain,2018,np,87,Number of patches,count,Absolute patch subdivision
+ESP_S5,ESP_0602,Spain,2018,pd,0.1392,Patch density,patches / 100 ha,Area-standardized patch subdivision
+ESP_S5,ESP_0602,Spain,2018,ed,22.023999999992903,Edge density,m / ha,Density of forest-matrix edges
+ESP_S5,ESP_0602,Spain,2018,lpi,21.6864,Largest patch index,%,Dominance of the largest forest patch
+ESP_S5,ESP_0602,Spain,2018,cohesion,99.17530184801147,Patch cohesion index,%,Structural connectedness
+ESP_S5,ESP_0602,Spain,2018,enn_mn,247.05831887444435,Mean nearest-neighbour distance,m,Isolation among forest patches
+ESP_S5,ESP_0602,Spain,2018,ai,87.44343891402715,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S1,BAL_0120,Baltic States,1990,pland,53.2512,Percentage of landscape,%,Forest habitat amount
+BAL_S1,BAL_0120,Baltic States,1990,np,75,Number of patches,count,Absolute patch subdivision
+BAL_S1,BAL_0120,Baltic States,1990,pd,0.12000000000000222,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S1,BAL_0120,Baltic States,1990,ed,20.955200000005096,Edge density,m / ha,Density of forest-matrix edges
+BAL_S1,BAL_0120,Baltic States,1990,lpi,34.5104,Largest patch index,%,Dominance of the largest forest patch
+BAL_S1,BAL_0120,Baltic States,1990,cohesion,99.09141135121293,Patch cohesion index,%,Structural connectedness
+BAL_S1,BAL_0120,Baltic States,1990,enn_mn,262.67265491999865,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S1,BAL_0120,Baltic States,1990,ai,90.23852324053233,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S1,BAL_0120,Baltic States,2000,pland,49.5664,Percentage of landscape,%,Forest habitat amount
+BAL_S1,BAL_0120,Baltic States,2000,np,83,Number of patches,count,Absolute patch subdivision
+BAL_S1,BAL_0120,Baltic States,2000,pd,0.13280000000000244,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S1,BAL_0120,Baltic States,2000,ed,23.11520000000214,Edge density,m / ha,Density of forest-matrix edges
+BAL_S1,BAL_0120,Baltic States,2000,lpi,31.224,Largest patch index,%,Dominance of the largest forest patch
+BAL_S1,BAL_0120,Baltic States,2000,cohesion,99.09750070449456,Patch cohesion index,%,Structural connectedness
+BAL_S1,BAL_0120,Baltic States,2000,enn_mn,266.09098659924433,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S1,BAL_0120,Baltic States,2000,ai,88.4230176122068,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S1,BAL_0120,Baltic States,2006,pland,47.976,Percentage of landscape,%,Forest habitat amount
+BAL_S1,BAL_0120,Baltic States,2006,np,89,Number of patches,count,Absolute patch subdivision
+BAL_S1,BAL_0120,Baltic States,2006,pd,0.14240000000000264,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S1,BAL_0120,Baltic States,2006,ed,23.272000000001267,Edge density,m / ha,Density of forest-matrix edges
+BAL_S1,BAL_0120,Baltic States,2006,lpi,29.9616,Largest patch index,%,Dominance of the largest forest patch
+BAL_S1,BAL_0120,Baltic States,2006,cohesion,99.03250408200925,Patch cohesion index,%,Structural connectedness
+BAL_S1,BAL_0120,Baltic States,2006,enn_mn,269.1261199075695,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S1,BAL_0120,Baltic States,2006,ai,87.9459269074015,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S1,BAL_0120,Baltic States,2012,pland,47.368,Percentage of landscape,%,Forest habitat amount
+BAL_S1,BAL_0120,Baltic States,2012,np,69,Number of patches,count,Absolute patch subdivision
+BAL_S1,BAL_0120,Baltic States,2012,pd,0.11040000000000204,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S1,BAL_0120,Baltic States,2012,ed,22.809600000003034,Edge density,m / ha,Density of forest-matrix edges
+BAL_S1,BAL_0120,Baltic States,2012,lpi,28.5136,Largest patch index,%,Dominance of the largest forest patch
+BAL_S1,BAL_0120,Baltic States,2012,cohesion,99.08725571941531,Patch cohesion index,%,Structural connectedness
+BAL_S1,BAL_0120,Baltic States,2012,enn_mn,281.7789844615382,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S1,BAL_0120,Baltic States,2012,ai,88.0523231122059,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S1,BAL_0120,Baltic States,2018,pland,46.6752,Percentage of landscape,%,Forest habitat amount
+BAL_S1,BAL_0120,Baltic States,2018,np,70,Number of patches,count,Absolute patch subdivision
+BAL_S1,BAL_0120,Baltic States,2018,pd,0.11200000000000207,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S1,BAL_0120,Baltic States,2018,ed,22.971200000003268,Edge density,m / ha,Density of forest-matrix edges
+BAL_S1,BAL_0120,Baltic States,2018,lpi,28.2336,Largest patch index,%,Dominance of the largest forest patch
+BAL_S1,BAL_0120,Baltic States,2018,cohesion,99.08312224665747,Patch cohesion index,%,Structural connectedness
+BAL_S1,BAL_0120,Baltic States,2018,enn_mn,282.2711099121353,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S1,BAL_0120,Baltic States,2018,ai,87.7762835764284,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S2,BAL_0142,Baltic States,1990,pland,36.99679999999999,Percentage of landscape,%,Forest habitat amount
+BAL_S2,BAL_0142,Baltic States,1990,np,82,Number of patches,count,Absolute patch subdivision
+BAL_S2,BAL_0142,Baltic States,1990,pd,0.13120000000000243,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S2,BAL_0142,Baltic States,1990,ed,26.758400000007022,Edge density,m / ha,Density of forest-matrix edges
+BAL_S2,BAL_0142,Baltic States,1990,lpi,20.532799999999998,Largest patch index,%,Dominance of the largest forest patch
+BAL_S2,BAL_0142,Baltic States,1990,cohesion,98.93189069981301,Patch cohesion index,%,Structural connectedness
+BAL_S2,BAL_0142,Baltic States,1990,enn_mn,292.56143363120606,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S2,BAL_0142,Baltic States,1990,ai,82.05742147537059,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S2,BAL_0142,Baltic States,2000,pland,35.732800000000005,Percentage of landscape,%,Forest habitat amount
+BAL_S2,BAL_0142,Baltic States,2000,np,89,Number of patches,count,Absolute patch subdivision
+BAL_S2,BAL_0142,Baltic States,2000,pd,0.14240000000000266,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S2,BAL_0142,Baltic States,2000,ed,26.574400000005152,Edge density,m / ha,Density of forest-matrix edges
+BAL_S2,BAL_0142,Baltic States,2000,lpi,19.048000000000005,Largest patch index,%,Dominance of the largest forest patch
+BAL_S2,BAL_0142,Baltic States,2000,cohesion,98.79488721033869,Patch cohesion index,%,Structural connectedness
+BAL_S2,BAL_0142,Baltic States,2000,enn_mn,288.3390167743926,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S2,BAL_0142,Baltic States,2000,ai,81.54484188698807,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S2,BAL_0142,Baltic States,2006,pland,38.140800000000006,Percentage of landscape,%,Forest habitat amount
+BAL_S2,BAL_0142,Baltic States,2006,np,92,Number of patches,count,Absolute patch subdivision
+BAL_S2,BAL_0142,Baltic States,2006,pd,0.14720000000000275,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S2,BAL_0142,Baltic States,2006,ed,26.017600000005302,Edge density,m / ha,Density of forest-matrix edges
+BAL_S2,BAL_0142,Baltic States,2006,lpi,21.324800000000003,Largest patch index,%,Dominance of the largest forest patch
+BAL_S2,BAL_0142,Baltic States,2006,cohesion,98.79219775484603,Patch cohesion index,%,Structural connectedness
+BAL_S2,BAL_0142,Baltic States,2006,enn_mn,279.38094481016986,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S2,BAL_0142,Baltic States,2006,ai,83.09793738256592,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S2,BAL_0142,Baltic States,2012,pland,39.075199999999995,Percentage of landscape,%,Forest habitat amount
+BAL_S2,BAL_0142,Baltic States,2012,np,89,Number of patches,count,Absolute patch subdivision
+BAL_S2,BAL_0142,Baltic States,2012,pd,0.14240000000000264,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S2,BAL_0142,Baltic States,2012,ed,25.830400000004655,Edge density,m / ha,Density of forest-matrix edges
+BAL_S2,BAL_0142,Baltic States,2012,lpi,21.9776,Largest patch index,%,Dominance of the largest forest patch
+BAL_S2,BAL_0142,Baltic States,2012,cohesion,98.87225092235762,Patch cohesion index,%,Structural connectedness
+BAL_S2,BAL_0142,Baltic States,2012,enn_mn,254.41300891003064,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S2,BAL_0142,Baltic States,2012,ai,83.63520224186603,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S2,BAL_0142,Baltic States,2018,pland,38.74720000000001,Percentage of landscape,%,Forest habitat amount
+BAL_S2,BAL_0142,Baltic States,2018,np,93,Number of patches,count,Absolute patch subdivision
+BAL_S2,BAL_0142,Baltic States,2018,pd,0.14880000000000276,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S2,BAL_0142,Baltic States,2018,ed,25.88480000000389,Edge density,m / ha,Density of forest-matrix edges
+BAL_S2,BAL_0142,Baltic States,2018,lpi,20.456000000000003,Largest patch index,%,Dominance of the largest forest patch
+BAL_S2,BAL_0142,Baltic States,2018,cohesion,98.72854065016428,Patch cohesion index,%,Structural connectedness
+BAL_S2,BAL_0142,Baltic States,2018,enn_mn,256.8198705622313,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S2,BAL_0142,Baltic States,2018,ai,83.46702132080961,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S3,BAL_0148,Baltic States,1990,pland,37.017509915836314,Percentage of landscape,%,Forest habitat amount
+BAL_S3,BAL_0148,Baltic States,1990,np,82,Number of patches,count,Absolute patch subdivision
+BAL_S3,BAL_0148,Baltic States,1990,pd,0.13221115088194757,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S3,BAL_0148,Baltic States,1990,ed,18.156460610753026,Edge density,m / ha,Density of forest-matrix edges
+BAL_S3,BAL_0148,Baltic States,1990,lpi,24.020508851697784,Largest patch index,%,Dominance of the largest forest patch
+BAL_S3,BAL_0148,Baltic States,1990,cohesion,98.86103686185014,Patch cohesion index,%,Structural connectedness
+BAL_S3,BAL_0148,Baltic States,1990,enn_mn,393.23858916829494,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S3,BAL_0148,Baltic States,1990,ai,87.90283684833604,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S3,BAL_0148,Baltic States,2000,pland,33.436522524265584,Percentage of landscape,%,Forest habitat amount
+BAL_S3,BAL_0148,Baltic States,2000,np,98,Number of patches,count,Absolute patch subdivision
+BAL_S3,BAL_0148,Baltic States,2000,pd,0.1580084486150105,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S3,BAL_0148,Baltic States,2000,ed,19.35281029312138,Edge density,m / ha,Density of forest-matrix edges
+BAL_S3,BAL_0148,Baltic States,2000,lpi,20.412111831285674,Largest patch index,%,Dominance of the largest forest patch
+BAL_S3,BAL_0148,Baltic States,2000,cohesion,98.63382520570696,Patch cohesion index,%,Structural connectedness
+BAL_S3,BAL_0148,Baltic States,2000,enn_mn,376.08360339967754,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S3,BAL_0148,Baltic States,2000,ai,85.7115109136378,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S3,BAL_0148,Baltic States,2006,pland,31.998709989518666,Percentage of landscape,%,Forest habitat amount
+BAL_S3,BAL_0148,Baltic States,2006,np,113,Number of patches,count,Absolute patch subdivision
+BAL_S3,BAL_0148,Baltic States,2006,pd,0.18221398048859486,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S3,BAL_0148,Baltic States,2006,ed,20.3160525679265,Edge density,m / ha,Density of forest-matrix edges
+BAL_S3,BAL_0148,Baltic States,2006,lpi,19.775860678868014,Largest patch index,%,Dominance of the largest forest patch
+BAL_S3,BAL_0148,Baltic States,2006,cohesion,98.62846055667886,Patch cohesion index,%,Structural connectedness
+BAL_S3,BAL_0148,Baltic States,2006,enn_mn,367.2089027727326,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S3,BAL_0148,Baltic States,2006,ai,84.24605390042126,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S3,BAL_0148,Baltic States,2012,pland,28.22704184471499,Percentage of landscape,%,Forest habitat amount
+BAL_S3,BAL_0148,Baltic States,2012,np,123,Number of patches,count,Absolute patch subdivision
+BAL_S3,BAL_0148,Baltic States,2012,pd,0.19833911150528466,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S3,BAL_0148,Baltic States,2012,ed,21.109409013946234,Edge density,m / ha,Density of forest-matrix edges
+BAL_S3,BAL_0148,Baltic States,2012,lpi,10.589373538660002,Largest patch index,%,Dominance of the largest forest patch
+BAL_S3,BAL_0148,Baltic States,2012,cohesion,97.58014924398634,Patch cohesion index,%,Structural connectedness
+BAL_S3,BAL_0148,Baltic States,2012,enn_mn,369.1513786709832,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S3,BAL_0148,Baltic States,2012,ai,81.41315297165059,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S3,BAL_0148,Baltic States,2018,pland,27.31435942917036,Percentage of landscape,%,Forest habitat amount
+BAL_S3,BAL_0148,Baltic States,2018,np,126,Number of patches,count,Absolute patch subdivision
+BAL_S3,BAL_0148,Baltic States,2018,pd,0.2031766508102916,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S3,BAL_0148,Baltic States,2018,ed,20.803031524631148,Edge density,m / ha,Density of forest-matrix edges
+BAL_S3,BAL_0148,Baltic States,2018,lpi,8.173828912359914,Largest patch index,%,Dominance of the largest forest patch
+BAL_S3,BAL_0148,Baltic States,2018,cohesion,96.94581064582275,Patch cohesion index,%,Structural connectedness
+BAL_S3,BAL_0148,Baltic States,2018,enn_mn,371.0730835750104,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S3,BAL_0148,Baltic States,2018,ai,81.08397536960467,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S4,BAL_0194,Baltic States,1990,pland,49.787200000000006,Percentage of landscape,%,Forest habitat amount
+BAL_S4,BAL_0194,Baltic States,1990,np,72,Number of patches,count,Absolute patch subdivision
+BAL_S4,BAL_0194,Baltic States,1990,pd,0.11520000000000213,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S4,BAL_0194,Baltic States,1990,ed,22.494399999991455,Edge density,m / ha,Density of forest-matrix edges
+BAL_S4,BAL_0194,Baltic States,1990,lpi,32.6352,Largest patch index,%,Dominance of the largest forest patch
+BAL_S4,BAL_0194,Baltic States,1990,cohesion,99.22982484617917,Patch cohesion index,%,Structural connectedness
+BAL_S4,BAL_0194,Baltic States,1990,enn_mn,343.0258018533667,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S4,BAL_0194,Baltic States,1990,ai,88.82047801425317,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S4,BAL_0194,Baltic States,2000,pland,47.921600000000005,Percentage of landscape,%,Forest habitat amount
+BAL_S4,BAL_0194,Baltic States,2000,np,82,Number of patches,count,Absolute patch subdivision
+BAL_S4,BAL_0194,Baltic States,2000,pd,0.13120000000000243,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S4,BAL_0194,Baltic States,2000,ed,24.033599999990134,Edge density,m / ha,Density of forest-matrix edges
+BAL_S4,BAL_0194,Baltic States,2000,lpi,30.670399999999997,Largest patch index,%,Dominance of the largest forest patch
+BAL_S4,BAL_0194,Baltic States,2000,cohesion,99.19065318614331,Patch cohesion index,%,Structural connectedness
+BAL_S4,BAL_0194,Baltic States,2000,enn_mn,327.87646400626943,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S4,BAL_0194,Baltic States,2000,ai,87.57451095625892,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S4,BAL_0194,Baltic States,2006,pland,47.1856,Percentage of landscape,%,Forest habitat amount
+BAL_S4,BAL_0194,Baltic States,2006,np,74,Number of patches,count,Absolute patch subdivision
+BAL_S4,BAL_0194,Baltic States,2006,pd,0.11840000000000218,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S4,BAL_0194,Baltic States,2006,ed,24.734399999992554,Edge density,m / ha,Density of forest-matrix edges
+BAL_S4,BAL_0194,Baltic States,2006,lpi,29.604800000000004,Largest patch index,%,Dominance of the largest forest patch
+BAL_S4,BAL_0194,Baltic States,2006,cohesion,99.11240411844149,Patch cohesion index,%,Structural connectedness
+BAL_S4,BAL_0194,Baltic States,2006,enn_mn,323.46744021060647,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S4,BAL_0194,Baltic States,2006,ai,86.99989767727412,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S4,BAL_0194,Baltic States,2012,pland,44.2976,Percentage of landscape,%,Forest habitat amount
+BAL_S4,BAL_0194,Baltic States,2012,np,80,Number of patches,count,Absolute patch subdivision
+BAL_S4,BAL_0194,Baltic States,2012,pd,0.12800000000000236,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S4,BAL_0194,Baltic States,2012,ed,24.791999999990292,Edge density,m / ha,Density of forest-matrix edges
+BAL_S4,BAL_0194,Baltic States,2012,lpi,16.8688,Largest patch index,%,Dominance of the largest forest patch
+BAL_S4,BAL_0194,Baltic States,2012,cohesion,98.71961005427647,Patch cohesion index,%,Structural connectedness
+BAL_S4,BAL_0194,Baltic States,2012,enn_mn,317.52429833482677,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S4,BAL_0194,Baltic States,2012,ai,86.12256763385963,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S4,BAL_0194,Baltic States,2018,pland,44.0816,Percentage of landscape,%,Forest habitat amount
+BAL_S4,BAL_0194,Baltic States,2018,np,82,Number of patches,count,Absolute patch subdivision
+BAL_S4,BAL_0194,Baltic States,2018,pd,0.13120000000000243,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S4,BAL_0194,Baltic States,2018,ed,24.76959999999075,Edge density,m / ha,Density of forest-matrix edges
+BAL_S4,BAL_0194,Baltic States,2018,lpi,16.7536,Largest patch index,%,Dominance of the largest forest patch
+BAL_S4,BAL_0194,Baltic States,2018,cohesion,98.71562418620093,Patch cohesion index,%,Structural connectedness
+BAL_S4,BAL_0194,Baltic States,2018,enn_mn,309.1605593325822,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S4,BAL_0194,Baltic States,2018,ai,86.0653642505021,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S5,BAL_0264,Baltic States,1990,pland,54.265600000000006,Percentage of landscape,%,Forest habitat amount
+BAL_S5,BAL_0264,Baltic States,1990,np,25,Number of patches,count,Absolute patch subdivision
+BAL_S5,BAL_0264,Baltic States,1990,pd,0.040000000000000736,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S5,BAL_0264,Baltic States,1990,ed,17.22399999998432,Edge density,m / ha,Density of forest-matrix edges
+BAL_S5,BAL_0264,Baltic States,1990,lpi,50.93600000000001,Largest patch index,%,Dominance of the largest forest patch
+BAL_S5,BAL_0264,Baltic States,1990,cohesion,99.75298441608447,Patch cohesion index,%,Structural connectedness
+BAL_S5,BAL_0264,Baltic States,1990,enn_mn,373.29593768484654,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S5,BAL_0264,Baltic States,1990,ai,92.12753657560441,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S5,BAL_0264,Baltic States,2000,pland,52.42399999999999,Percentage of landscape,%,Forest habitat amount
+BAL_S5,BAL_0264,Baltic States,2000,np,28,Number of patches,count,Absolute patch subdivision
+BAL_S5,BAL_0264,Baltic States,2000,pd,0.044800000000000825,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S5,BAL_0264,Baltic States,2000,ed,18.092799999982656,Edge density,m / ha,Density of forest-matrix edges
+BAL_S5,BAL_0264,Baltic States,2000,lpi,47.4432,Largest patch index,%,Dominance of the largest forest patch
+BAL_S5,BAL_0264,Baltic States,2000,cohesion,99.69049958591864,Patch cohesion index,%,Structural connectedness
+BAL_S5,BAL_0264,Baltic States,2000,enn_mn,357.25781554873697,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S5,BAL_0264,Baltic States,2000,ai,91.42050424294504,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S5,BAL_0264,Baltic States,2006,pland,44.820800000000006,Percentage of landscape,%,Forest habitat amount
+BAL_S5,BAL_0264,Baltic States,2006,np,44,Number of patches,count,Absolute patch subdivision
+BAL_S5,BAL_0264,Baltic States,2006,pd,0.0704000000000013,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S5,BAL_0264,Baltic States,2006,ed,19.39519999998452,Edge density,m / ha,Density of forest-matrix edges
+BAL_S5,BAL_0264,Baltic States,2006,lpi,39.0144,Largest patch index,%,Dominance of the largest forest patch
+BAL_S5,BAL_0264,Baltic States,2006,cohesion,99.58969728155257,Patch cohesion index,%,Structural connectedness
+BAL_S5,BAL_0264,Baltic States,2006,enn_mn,347.93034712922156,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S5,BAL_0264,Baltic States,2006,ai,89.24781382988274,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S5,BAL_0264,Baltic States,2012,pland,48.512,Percentage of landscape,%,Forest habitat amount
+BAL_S5,BAL_0264,Baltic States,2012,np,38,Number of patches,count,Absolute patch subdivision
+BAL_S5,BAL_0264,Baltic States,2012,pd,0.06080000000000112,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S5,BAL_0264,Baltic States,2012,ed,16.23999999998957,Edge density,m / ha,Density of forest-matrix edges
+BAL_S5,BAL_0264,Baltic States,2012,lpi,43.0688,Largest patch index,%,Dominance of the largest forest patch
+BAL_S5,BAL_0264,Baltic States,2012,cohesion,99.61194108942325,Patch cohesion index,%,Structural connectedness
+BAL_S5,BAL_0264,Baltic States,2012,enn_mn,360.7267384442292,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S5,BAL_0264,Baltic States,2012,ai,91.68864341278135,Aggregation index,%,Aggregation of adjacent forest cells
+BAL_S5,BAL_0264,Baltic States,2018,pland,48.7248,Percentage of landscape,%,Forest habitat amount
+BAL_S5,BAL_0264,Baltic States,2018,np,38,Number of patches,count,Absolute patch subdivision
+BAL_S5,BAL_0264,Baltic States,2018,pd,0.06080000000000112,Patch density,patches / 100 ha,Area-standardized patch subdivision
+BAL_S5,BAL_0264,Baltic States,2018,ed,16.239999999990342,Edge density,m / ha,Density of forest-matrix edges
+BAL_S5,BAL_0264,Baltic States,2018,lpi,43.2544,Largest patch index,%,Dominance of the largest forest patch
+BAL_S5,BAL_0264,Baltic States,2018,cohesion,99.60914900014981,Patch cohesion index,%,Structural connectedness
+BAL_S5,BAL_0264,Baltic States,2018,enn_mn,358.3246941667427,Mean nearest-neighbour distance,m,Isolation among forest patches
+BAL_S5,BAL_0264,Baltic States,2018,ai,91.7299689543563,Aggregation index,%,Aggregation of adjacent forest cells
