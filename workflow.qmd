@@ -9,11 +9,13 @@ format:
     code-fold: show
     code-summary: "Show/Hide code"
     theme: cosmo
-    self-contained: false
+    standalone: true
+    embed-resources: true
 
 server: shiny
 
 params:
+
 
   # ---------------------------------------------------------
   # STUDY AREAS
@@ -84,7 +86,6 @@ execute:
   message: false
   cache: false
 ---
-
 # 1. Introduction
 
 ## 1.1. Background
